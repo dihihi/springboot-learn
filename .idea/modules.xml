@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-files/config-files.iml" filepath="$PROJECT_DIR$/config-files/config-files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_main.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/config-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/config-server_test.iml" group="config-server" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client_main.iml" group="eureka-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client_test.iml" group="eureka-client" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/first/first.iml" filepath="$PROJECT_DIR$/first/first.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_main.iml" filepath="$PROJECT_DIR$/.idea/modules/first_main.iml" group="first" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/first_test.iml" filepath="$PROJECT_DIR$/.idea/modules/first_test.iml" group="first" />
